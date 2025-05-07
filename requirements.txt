@@ -1,0 +1,17 @@
+ipykernel
+matplotlib
+pandas
+numpy
+pytest
+scikit-learn
+seaborn
+statsmodels
+nbimporter
+nbformat
+openpyxl
+cx_Oracle
+tensorflow
+geopandas
+keras
+jinja2
+networkx
